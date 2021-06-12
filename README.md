@@ -18,8 +18,7 @@ npm start
 - navigate to localhost:[PORT] to view application
 
 ### To access deployed app on Heroku
-- go to 
-- 
+- go to https://cryptic-mesa-08509.herokuapp.com/
 
 ## Usage
 
