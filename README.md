@@ -1,5 +1,27 @@
 # Online/Offline Budget Tracker
-This application is a budget Tracker application that allows for both online and offline access and functionality.
+This application is a budget Tracker application that allows for both online and offline access and functionality. Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+
+## Installation
+
+### To download code base:
+- go to https://github.com/lizaferguson/PWA-Online-Offline-Budget-Tracker
+- clone code base onto local machine 
+- run following commands to install node packages and initialize the server
+
+```bash
+npm i 
+```
+
+```bash
+npm start
+```
+- navigate to localhost:[PORT] to view application
+
+### To access deployed app on Heroku
+- go to 
+- 
+
+## Usage
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
@@ -13,35 +35,6 @@ When brought back online:
 
 Offline entries should be added to tracker.
 
-## Installation
-
-- To access code base go to :
-https://github.com/lizaferguson/PWA-Online-Offline-Budget-Tracker
-- clone code base onto local machine 
-- run following commands to install node packages and initialize the server
-
-```bash
-npm i 
-```
-
-```bash
-npm start
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Original code provided by Trilogy Education Services
