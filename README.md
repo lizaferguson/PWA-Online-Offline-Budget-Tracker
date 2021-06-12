@@ -35,6 +35,10 @@ When brought back online:
 
 Offline entries should be added to tracker.
 
+### Below is an example image of the apps appearance:
+
+![Online/Offline Budget Tracker](./images/demo.png)
+
 
 ## Contributing
 Original code provided by Trilogy Education Services
